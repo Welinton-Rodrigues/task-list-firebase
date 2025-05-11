@@ -6,7 +6,7 @@ import 'package:todolist/login.dart';
 import 'package:todolist/registro.dart';
 
 const firebaseConfig = FirebaseOptions(
-  apiKey: "AIzaSyA5AVMyw_O0sC2fEsyvgZqSCmUxtEDgBuU",
+  apiKey: "",
   authDomain: "prova-f559e.firebaseapp.com",
   projectId: "prova-f559e",
   storageBucket: "prova-f559e.firebasestorage.app",
